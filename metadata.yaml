@@ -1,0 +1,29 @@
+_repo: John-Marr-and-Other-Poems_12841
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sea poetry'
+- GITenberg
+tableOfContents: John Marr and other poems -- Sea pieces -- Poems from Timoleon --
+  Supplement -- Poems from Battle pieces -- Poems from Mardi -- Poems from Clarel.
+title: John Marr and Other Poems
+url: http://www.gutenberg.org/ebooks/12841
